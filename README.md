@@ -2,6 +2,10 @@
 
 This repository is the official implementation of 
 "Fast and Accurate Online Coupled Matrix-Tensor Factorization via Frequency Regularization" (KDD 2026).
+<p align="center">
+  <img src="https://raw.githubusercontent.com/snudatalab/FOCAL/main/docs/FOCAL.png" width="480"/>
+</p>
+
 
 ## Abstract
 
