@@ -39,4 +39,9 @@ The datasets are available at [ML-100K](https://grouplens.org/datasets/movielens
 
 If you use this code, please cite the following paper.
 ```bibtex
-TBA
+@misc{park2026fast,
+  title={Fast and Accurate Online Coupled Matrix-Tensor Factorization via Frequency Regularization},
+  author={Park, Yong-chan and Lee, SeungJoo and Kang, U},
+  year={2026},
+  note={Accepted to the ACM SIGKDD Conference on Knowledge Discovery and Data Mining V.1}
+}
